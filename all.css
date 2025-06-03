@@ -171,10 +171,19 @@ body{
 
 .content p{
     font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.content .sentence{
+    margin-bottom: 8px;
+}
+
+.content .list{
+    margin-bottom: 0px;
 }
 
 .content img{
-    margin-top: 48px;
+    margin-top: 24px;
     margin-bottom: 24px;
 }
 
@@ -184,7 +193,7 @@ body{
     margin-bottom: 12px;
 }
 
-.content ol{
+.content ul{
     font-size: 24px;
     margin-bottom: 24px;
 }
@@ -192,8 +201,23 @@ body{
 .note{
     background: #ededed;
     border-radius: 30px;
+    margin-bottom: 24px;
 }
 
 .note p{
     padding: 24px;
 }
+
+.readmore{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.page{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    border-bottom: 1px solid #000;
+}
+
+
