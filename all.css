@@ -73,6 +73,7 @@ body{
     line-height: 1.5;
     color: #000;
     max-width: 1920px;
+    background: #fbfbfb;
 }
 
 .header{
@@ -117,6 +118,11 @@ body{
     border-radius: 40px;
     font-size: 24px;
     color: #ffff;
+}
+
+.group a:hover{
+    background: #4b4b4b;
+    border: #4b4b4b;
 }
 
 .item p{
@@ -174,6 +180,11 @@ body{
     margin-bottom: 24px;
 }
 
+.content .contact{
+    color: #0027D5;
+    text-decoration: underline 2px #0027D5;
+}
+
 .content .sentence{
     margin-bottom: 8px;
 }
@@ -217,7 +228,50 @@ body{
     display: flex;
     justify-content: space-between;
     padding-bottom: 80px;
-    border-bottom: 1px solid #000;
 }
 
+.page a{
+    font-size: 24px;
+    font-weight: 400;
+    padding: 8px 16px;
+    border: 2px solid #4b4b4b;
+    border-radius: 80px;
+    color: #4b4b4b;
+}
 
+.page a:hover{
+    background: #4b4b4b;
+    color: #ededed;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-top: 1px solid #000;
+}
+
+.bottom a{
+    font-size: 48px;
+}
+
+.bottom .link{
+    display: flex;
+}
+
+.bottom li{
+    padding: 10px;
+}
+
+.footer{
+    background: #ffff;
+}
+
+.footer p{
+    font-size: 24px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
