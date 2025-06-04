@@ -158,8 +158,8 @@ body{
     }
     .card .item{
         width: 100%;
-        padding-left: 12px;
-        padding-right: 12px;
+        margin-left: 12px;
+        margin-right: 12px;
         margin-bottom: 48px;
     }
 }
@@ -248,8 +248,8 @@ body{
 
 @media(max-width:992px){
     .content{
-        padding-left: 12px;
-        padding-right: 12px;
+        margin-left: 12px;
+        margin-right: 12px;
     }
 }
 
