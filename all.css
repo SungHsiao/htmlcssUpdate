@@ -84,7 +84,7 @@ body{
 }
 
 .header li{
-    font-size: 42px;
+    font-size: 28px;
 }
 
 .header .firstpage{
@@ -116,7 +116,7 @@ body{
     border: 1px solid #0027D5;
     background: #0027D5;
     border-radius: 40px;
-    font-size: 24px;
+    font-size: 16px;
     color: #ffff;
 }
 
@@ -126,18 +126,18 @@ body{
 }
 
 .item p{
-    font-size: 24px;
+    font-size: 16px;
     margin-bottom: 4px;
 }
 
 .item h2{
-    font-size: 36px;
+    font-size: 24px;
     color: #0027d5;
     margin-right: 8px;
 }
 
 .item h1{
-    font-size: 42px;
+    font-size: 28px;
     font-weight: bold;
     text-shadow: 2px 5px 5px #cac8c8;
 }
@@ -169,14 +169,14 @@ body{
 }
 
 .content h2{
-    font-size: 42px;
+    font-size: 28px;
     font-weight: bold;
     color: #0027d5;
     margin-bottom: 24px;
 }
 
 .content p{
-    font-size: 24px;
+    font-size: 16px;
     margin-bottom: 24px;
 }
 
@@ -199,13 +199,13 @@ body{
 }
 
 .content h3{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     margin-bottom: 12px;
 }
 
 .content ul{
-    font-size: 24px;
+    font-size: 16px;
     margin-bottom: 24px;
 }
 
@@ -231,7 +231,7 @@ body{
 }
 
 .page a{
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 400;
     padding: 8px 16px;
     border: 2px solid #4b4b4b;
@@ -254,7 +254,7 @@ body{
 }
 
 .bottom a{
-    font-size: 48px;
+    font-size: 32px;
 }
 
 .bottom .link{
@@ -270,7 +270,7 @@ body{
 }
 
 .footer p{
-    font-size: 24px;
+    font-size: 16px;
     text-align: center;
     padding-top: 24px;
     padding-bottom: 24px;
